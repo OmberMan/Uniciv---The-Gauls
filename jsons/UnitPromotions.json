@@ -1,0 +1,5 @@
+{
+                "name": "Oathed Up",
+                "uniques": ["[+20]% Strength <when defending> <when below [50] HP>", "[mapUnitFilter] units gain the [promotion] promotion <for [mapUnitFilter] units>", "<upon being defeated>" ]
+        },
+
