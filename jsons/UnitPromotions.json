@@ -1,5 +1,11 @@
-{
+[
+  {
                 "name": "Oathed Up",
-                "uniques": ["[+20]% Strength <when defending> <when below [50] HP>", "[mapUnitFilter] units gain the [promotion] promotion <for [mapUnitFilter] units>", "<upon being defeated>" ]
+                "uniques": ["[+20]% Strength <when defending> <when below [50] HP>", "[Target Unit] gains the [Revenge] status for [3] turn(s)<for [{Friendly} {Land} {Melee}] units> <upon being defeated>", "[Target Unit] heals [25] HP "<upon being defeated>"]
         },
+    {
+                "name": "Revenge",
+                "uniques": ["[+15]% Strength <when attacking>"]
+        },
+]
 
