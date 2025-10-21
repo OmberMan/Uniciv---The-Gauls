@@ -12,4 +12,23 @@
                         "Destroyed when the city is captured"],
                 "requiredTech": "Masonry"
         },
+ {
+		"name": "Metalworkers",
+		"replaces": "Mint",
+		"uniqueTo": "The Gauls",
+		"maintenance": 1,
+  "cost": 125,
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper", "Iron"],
+		"hurryCostModifier": 20,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]","[+1 Gold] from [Copper] tiles [in this city]","[+1 Gold] from [Iron] tiles [in this city]","Can also be built with Copper, Iron", "],
+		"requiredTech": "Bronze Working"
+	},
+  {
+		"name": "Get That Bag",
+		"uniqueTo": "The Gauls",
+  "cost": 0,
+		"hurryCostModifier": -100,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]","[+1 Gold] from [Copper] tiles [in this city]","[+1 Gold] from [Iron] tiles [in this city]","Can also be built with Copper, Iron", "],
+		"requiredTech": "Bronze Working"
+	},
 ]
