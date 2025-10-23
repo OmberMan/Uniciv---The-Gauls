@@ -17,9 +17,9 @@
                 "introduction": "I am Tyrrhenus, and you are in my slice of Eturia. \nFear not, for this is a land of civilization and hospitality."
                 "neutralHello": "What do you ask of the Gauls?", 
 /*"When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
-                "hateHello": "Tired of pillaging?",
+                "hateHello": "You have the gaul to show your face here?",
 /*"When I'm far out in the night \nAnd searching for a light \nThere's darkness all around \nAnd you're nowhere to be found \nThen out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
-                "tradeRequest": "Let us talk trade, for nothing's more fruitful than a civilized discussion, trust us. \nOr should I say, Etrust us, ah...? \n\nHaha we're fun \nwe have fun here.",
+                "tradeRequest": "Lucky for you we're asking nicely this time.",
 
         "outerColor": [45,226,103],
         "innerColor": [180,35,22],
@@ -27,7 +27,7 @@
                 "favouredReligion": "Christianity",
                 "uniqueName": "Magic Potions",
 	        "uniqueText": "Non-Capital cities suffer -15% [Gold] and [Production] plus an extra -15% [Production] of military land units, \nbut get a weaker version of the palace and -40% unhappiness and increase in policy [Culture] cost. \n Great merchants are earned +40% faster and allied city state yield +40% of their [Gold] output. \n+1 [Gold] and +1 [Culture] from [Marble].",
-                "uniques": ["Gain a free [Oppidum Gallicum] [non-[Annexed]] <in [Hill] tiles>", "Gain a free [Let's Get The Bag] [non-[Annexed]]", "[+1] [Culture] from [{Resource} {Mine}] tiles [in all cities]", "[+50]% Strength <when stacked with a [Settler] unit> <for [{Melee} {Land}] units>", "[+50]% Strength <when stacked with a [Settler] unit> <for [{Land} {Ranged}] units> <when defending>"],
+                "uniques": ["Gain a free [Oppidum Gallicum] in your first [4] cities for free <in [Hill] tiles>", "Gain a free [Let's Get The Bag] [non-[Annexed]]", "[+1] [Culture] from [{Resource} {Mine}] tiles [in all cities]", "[+50]% Strength <when stacked with a [Settler] unit> <for [{Melee} {Land}] units>", "[+50]% Strength <when stacked with a [Settler] unit> <for [{Land} {Ranged}] units> <when defending>"],
                 "cities": ["Aduatuca", "Lutetium", "Avaricum", "Lugudunon", "Gergovia", "Meledunum", "Luteia", "Cenabum", "Autricum", "Turones", "Divodurum", "Ruscino", "Darioritum", "Abraracourcum", "Cinclarbriga", "Mideolanum"]
     },
 ]
