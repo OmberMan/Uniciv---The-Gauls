@@ -10,7 +10,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-		"hurryCostModifier": 40,
+		"hurryCostModifier": 30,
                 "uniques": ["Heal this unit by [25] HP <upon being promoted>"]
  "promotions": ["Oathed Up"],
 		"attackSound": "metalhit" "[-5]% Strength for enemy [Military] units in adjacent [Land] tiles
