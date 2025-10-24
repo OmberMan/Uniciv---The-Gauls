@@ -19,7 +19,7 @@
   "cost": 125,
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper", "Iron"],
 		"hurryCostModifier": 20,
-		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]","[+1 Gold] from [Copper] tiles [in this city]","[+1 Gold] from [Iron] tiles [in this city]","Can also be built with Copper, Iron", "],
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]","[+1 Gold] from [Copper] tiles [in this city]","[+1 Gold] from [Iron] tiles [in this city]","Can also be built with Copper, Iron", "Gain a free [0belisk] [in this city] <upon turn end> <with [2] to [6] neighboring [Mine] tiles>"],
 		"requiredTech": "Bronze Working"
 	},
   {
@@ -27,7 +27,7 @@
 		"uniqueTo": "The Gauls",
   "cost": 0,
 		"hurryCostModifier": -100,
-		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]","[+1 Gold] from [Copper] tiles [in this city]","[+1 Gold] from [Iron] tiles [in this city]","Can also be built with Copper, Iron", "],
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]","[+1 Gold] from [Copper] tiles [in this city]","[+1 Gold] from [Iron] tiles [in this city]","Can also be built with Copper, Iron", "Unbuildable"],
 		"requiredTech": "Bronze Working"
 	},
 ]
